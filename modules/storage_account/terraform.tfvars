@@ -1,0 +1,5 @@
+resource_group_name  = "RG1"
+location             = "East US"
+Storage_account_name = "dikshadevsa01"
+tier                 = "Standard"
+replication_type     = "LRS"
